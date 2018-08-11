@@ -1,0 +1,6 @@
+node_modules
+*.log
+dist
+config/config.development.*.json
+build
+yarn.lock

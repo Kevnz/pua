@@ -1,0 +1,12 @@
+{
+  "db": {
+    "url": ""
+  },
+  "twitter": {
+    "id": "",
+    "secret": ""
+  },
+  "auth": {
+    "password": "thisisareallylongpassword"
+  }
+}
